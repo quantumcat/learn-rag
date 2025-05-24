@@ -1,0 +1,1 @@
+rag.py uses an electric vehicle data csv file. It can be obtained from https://data.wa.gov/api/views/f6w7-q2d2/rows.csv
